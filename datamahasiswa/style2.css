@@ -1,0 +1,32 @@
+header{
+    text-align: center;
+}
+.form-group{
+    display: flex;
+    margin: 70px;
+}
+.container{
+    border: 1px solid #050505;
+    width: 330px;
+    height: 30%;
+    margin: auto;
+
+}
+.container-text{
+    text-align: center;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+.container-button{
+    margin-top: 20px;
+    padding: 20px;
+}
+.container-button a{
+    margin: 10px;
+    padding: 10px;
+    background-color: aqua;
+    border: 2px solid #050505;
+}
